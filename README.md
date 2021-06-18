@@ -6,4 +6,4 @@
 
 ###### InicioCSharp
 - [ X ] Desafio 02 - Soma Simples
-- [  ] Desafio 03 - Média 1
+- [ X ] Desafio 03 - Média 1
