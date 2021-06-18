@@ -1,0 +1,16 @@
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\bin\Debug\net5.0\InicioCSharp03.exe
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\bin\Debug\net5.0\InicioCSharp03.deps.json
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\bin\Debug\net5.0\InicioCSharp03.runtimeconfig.json
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\bin\Debug\net5.0\InicioCSharp03.runtimeconfig.dev.json
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\bin\Debug\net5.0\InicioCSharp03.dll
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\bin\Debug\net5.0\ref\InicioCSharp03.dll
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\bin\Debug\net5.0\InicioCSharp03.pdb
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.csprojAssemblyReference.cache
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.AssemblyInfoInputs.cache
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.AssemblyInfo.cs
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.csproj.CoreCompileInputs.cache
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.dll
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\ref\InicioCSharp03.dll
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.pdb
+C:\gitworkspace\desafios-NET_GFTstart2\InicioCSharp03\obj\Debug\net5.0\InicioCSharp03.genruntimeconfig.cache

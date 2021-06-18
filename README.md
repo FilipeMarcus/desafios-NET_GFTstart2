@@ -1,7 +1,9 @@
 # DIO Bootcamp GFT START #2 .NET
 
 ### Iniciando a programar em C#
-###### InicioCSharp
+######  IntroCSharp
 - [ X ] Desafio 01 - Dividindo X por Y (repetido)
+
+###### InicioCSharp
 - [ X ] Desafio 02 - Soma Simples
 - [  ] Desafio 03 - Média 1
